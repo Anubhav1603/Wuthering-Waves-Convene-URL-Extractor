@@ -2,7 +2,7 @@
 Automatically detects the wuthering waves game location and gets the convene data.
 
 
-## Steps to get execute:
+## Steps to execute:
 1) Open wuthering waves convene page
 2) click on history
 3) Open any terminal with administrator permission
