@@ -75,5 +75,5 @@ if (($process = Get-WmiObject Win32_Process -Filter "Name='Wuthering Waves.exe'"
     }
 }
 else {
-    Write-Host "Error: Unable to check the status of 'Wuthering Waves.exe'. Make sure it's game is running!" -ForegroundColor Red
+    Write-Host "Error: Unable to check the status of 'Wuthering Waves.exe'. Make sure game is running!" -ForegroundColor Red
 }
