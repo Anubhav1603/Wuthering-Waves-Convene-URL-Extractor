@@ -1,6 +1,5 @@
 # Convene URL Extractor
-
-It helps in getting convene url data from wuthering waves games and gives output in **json** format
+Automatically detects the wuthering waves game location and gets the convene data.
 
 
 ## Steps to get execute:
