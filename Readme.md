@@ -1,5 +1,5 @@
 # Convene URL Extractor
-Automatically detects the wuthering waves game location and gets the convene data.
+Automatically detects the wuthering waves game location and gets the convene url data.
 
 
 ## Steps to execute:
